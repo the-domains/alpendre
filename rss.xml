@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[alpendre]]></title>
-        <description><![CDATA[alpendre]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[alpendre : : ebooks : ideias : soluções]]></title>
+        <description><![CDATA[alpendre : : ebooks : ideias : soluções]]></description>
+        <link>https://thegrid.ai/alpendre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:52:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 21:53:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alpendre/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbc5d44b-f625-443b-94e9-ce7937092c38.jpg" alt="logo" title="">]]></description>
+            <link>https://thegrid.ai/alpendre/303cc85e-d0e7-4915-ba63-f6044d4edaeb/index.html</link>
+            <guid isPermaLink="false">303cc85e-d0e7-4915-ba63-f6044d4edaeb</guid>
+            <pubDate>Wed, 02 Mar 2016 21:53:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a911cfd-f684-4689-9e04-58daa81fd331.jpg">]]></description>
-            <link>undefined5e59cad8-7d3d-46a4-99d0-05f11a7693f2/index.html</link>
+            <link>https://thegrid.ai/alpendre/5e59cad8-7d3d-46a4-99d0-05f11a7693f2/index.html</link>
             <guid isPermaLink="false">5e59cad8-7d3d-46a4-99d0-05f11a7693f2</guid>
             <pubDate>Wed, 02 Mar 2016 20:51:44 GMT</pubDate>
         </item>
