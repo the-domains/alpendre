@@ -1,7 +1,7 @@
 name: alpendre
 favicon: null
-layout_spectrum: 0.6908410384785384
-typography_spectrum: 0.6111517618410289
+layout_spectrum: 1
+typography_spectrum: 1
 title: 'alpendre  : :  ebooks  :  ideias  :  soluções  : :'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6455659682396799
+  brandStrength: 0.8125
   lightness: 0.37113949097692966
-  saturation: 0.733745027333498
+  saturation: 0.875
   rhythmicContrast: 0.627251350088045
 purpose: []
