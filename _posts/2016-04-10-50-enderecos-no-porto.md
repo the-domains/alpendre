@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 50 Endereços no Porto
-datePublished: '2016-04-10T21:10:09.752Z'
-dateModified: '2016-04-10T21:08:58.956Z'
+datePublished: '2016-04-10T21:11:39.962Z'
+dateModified: '2016-04-10T21:10:18.271Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-10-50-enderecos-no-porto.md
