@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[alpendre  : :  ebooks  :  ideias  :  soluções  : :]]></title>
         <description><![CDATA[alpendre  : :  ebooks  :  ideias  :  soluções  : :]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alpendre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 21:02:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 21:10:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alpendre/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45454289-5fca-4118-851c-6f48dc78abed.png">]]></description>
-            <link>undefined50-enderecos-no-porto/index.html</link>
+            <title><![CDATA[50 Endereços no Porto]]></title>
+            <description><![CDATA[<article><h1>50 Endereços no Porto</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a45b475419ba455084a2f75323888a8d32f41bf.png"></article>]]></description>
+            <link>https://thegrid.ai/alpendre/50-enderecos-no-porto/index.html</link>
             <guid isPermaLink="false">90a88a2e-ea71-4190-9906-4322bb7414a6</guid>
-            <pubDate>Sun, 10 Apr 2016 21:02:27 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 21:10:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
