@@ -4,7 +4,7 @@
         <description><![CDATA[Editora Alpendre]]></description>
         <link>https://thegrid.ai/alpendre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 23:22:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alpendre/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quem somos]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/alpendre/quem-somos/index.html</link>
             <guid isPermaLink="false">303cc85e-d0e7-4915-ba63-f6044d4edaeb</guid>
             <pubDate>Sun, 10 Apr 2016 21:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[50 Endereços no Porto]]></title>
+            <description><![CDATA[<article><h1>50 Endereços no Porto</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e16f349529835d777e569d61d12b741eff0337b.png"></article>]]></description>
+            <link>https://thegrid.ai/alpendre/50-enderecos-no-porto/index.html</link>
+            <guid isPermaLink="false">90a88a2e-ea71-4190-9906-4322bb7414a6</guid>
+            <pubDate>Fri, 22 Apr 2016 23:22:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clientes 2014]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/alpendre/portfolio/index.html</link>
             <guid isPermaLink="false">97f1c7d5-4bb4-42ca-b469-87cacc498976</guid>
             <pubDate>Fri, 22 Apr 2016 23:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50 Endereços no Porto]]></title>
-            <description><![CDATA[<article><h1>50 Endereços no Porto</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e16f349529835d777e569d61d12b741eff0337b.png"></article>]]></description>
-            <link>https://thegrid.ai/alpendre/50-enderecos-no-porto/index.html</link>
-            <guid isPermaLink="false">90a88a2e-ea71-4190-9906-4322bb7414a6</guid>
-            <pubDate>Sun, 10 Apr 2016 21:11:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
