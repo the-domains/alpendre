@@ -1,15 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 50 Endereços no Porto
-datePublished: '2016-04-10T21:11:39.962Z'
-dateModified: '2016-04-10T21:10:18.271Z'
-title: ''
-author: []
+description: ''
+datePublished: '2016-04-22T23:22:17.951Z'
+dateModified: '2016-04-22T23:22:00.622Z'
+title: 50 Endereços no Porto
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-10-50-enderecos-no-porto.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: 50-enderecos-no-porto/index.html
 _type: Article
 
